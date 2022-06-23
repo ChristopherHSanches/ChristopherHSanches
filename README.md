@@ -2,7 +2,6 @@
 But you can call me Chris 
 - 🔭 I’m currently freelance 
 - 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for help with finding a job
 - 📫 How to reach me: cristovao.sanches1@gmail.com
 - 😄 Pronouns: He/his
 
