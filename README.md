@@ -1,4 +1,4 @@
-## Hi there! My name is Christopher 
+## Hello there! My name is Christopher 
 But you can call me Chris 
 - 🔭 I’m currently freelance 
 - 🌱 I’m currently learning ReactJS
