@@ -1,9 +1,5 @@
-## Hello there! My name is Christopher 
-But you can call me Chris 
-- 🔭 I’m currently freelance 
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: cristovao.sanches1@gmail.com
-- 😄 Pronouns: He/his
+## Olá! Meu nome é Cristovão 
+- 📫 Como me encontrar: cristovao.sanches1@gmail.com
 
 <div>
   <a href="https://github.com/ChristopherHSanches">
